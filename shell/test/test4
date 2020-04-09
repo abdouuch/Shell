@@ -1,0 +1,5 @@
+#
+# test - Tester les redirection dans le cas ou le fichier n'existe pas
+ls > test5
+
+

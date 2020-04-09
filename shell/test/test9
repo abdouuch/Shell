@@ -1,0 +1,3 @@
+#
+# test - Tester une séquence de commandes composé de plusieurs commandes
+touch fich2  | ls | sort

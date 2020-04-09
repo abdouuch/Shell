@@ -1,0 +1,3 @@
+#
+# test - Tester la gestion des erreurs dans le cas ou on tape & tout seul
+ls&
